@@ -1,0 +1,4 @@
+<resources>
+    <!-- Light theme only, as required -->
+    <style name="Theme.IqraGPT" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
