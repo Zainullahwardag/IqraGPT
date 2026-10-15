@@ -1,9 +1,10 @@
-package com.iqragpt.app
+package com.iqragpt.app.ui.chat
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.google.ai.client.generativeai.GenerativeModel
 import com.iqragpt.app.BuildConfig
+import com.iqragpt.app.data.ChatMessage
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

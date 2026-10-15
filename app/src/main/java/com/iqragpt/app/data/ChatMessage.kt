@@ -1,4 +1,4 @@
-package com.iqragpt.app
+package com.iqragpt.app.data
 
 /**
  * A single chat message.
